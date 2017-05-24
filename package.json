@@ -1,11 +1,29 @@
 {
   "name": "pe7-icon",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Pe7Icon npm package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "prasannavijayan <prasannavijayan446@gmail.com>",
-  "license": "ISC"
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.9.0",
+    "npm": ">=3.10.0"
+  },
+  "bugs": {
+    "url": "https://github.com/prasannatm/pe7-icon/issues"
+  },
+  "contributors": [
+  	{
+  		"name": "Icicle Technologies",
+  		"web":"https://www.icicletech.com"
+  	}, {
+  		"name": "Prasanna Vijayan",
+  		"web": "https://twitter.com/prasannavijayan"
+  	}
+  ],
+  "keywords": []
+  }
 }
