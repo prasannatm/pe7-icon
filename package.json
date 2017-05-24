@@ -1,6 +1,6 @@
 {
   "name": "pe7-icon",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Pe7Icon npm package",
   "main": "index.js",
   "scripts": {
